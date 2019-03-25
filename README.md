@@ -22,5 +22,8 @@ Run the initial load:
 http://localhost:8089/load-all
 
 to inquire:
-http://localhost:8089/user/<id>   (id = from 1001 to 9000)
+http://localhost:8089/user/1001
+
+where:
+id = from 1001 to 9000
 
