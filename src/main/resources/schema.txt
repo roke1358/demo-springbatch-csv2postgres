@@ -1,4 +1,4 @@
-truncate table public.user;
+drop table public.user;
 
 create table public.User (id int4 not null, 
 				   first_name varchar(50), 
